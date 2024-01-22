@@ -1,7 +1,9 @@
 import torch
-import csv
-from transformers import RobertaTokenizer
 from torch.utils.data import Dataset
+
+from transformers import RobertaTokenizer
+
+import csv
 
 
 def data_split(session):
