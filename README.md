@@ -1,2 +1,2 @@
-# erc_roberta_with_meld
+# CoMPM
 RoBerta Model with MELD dataset
